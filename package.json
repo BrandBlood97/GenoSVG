@@ -1,0 +1,16 @@
+{
+    "name": "GenoSVG",
+    "version": "1.0.0",
+    "description": "SVG Logo Generator CLI",
+    "main": "index.js",
+    "scripts": {
+      "test": "jest"
+    },
+    "dependencies": {
+      "inquirer": "^8.2.0"
+    },
+    "devDependencies": {
+      "jest": "^28.1.0"
+    }
+  }
+  
